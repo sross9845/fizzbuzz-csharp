@@ -1,0 +1,11 @@
+c:\Users\seanr\code\C#\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.exe
+C:\Users\seanr\code\C#\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.deps.json
+C:\Users\seanr\code\C#\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.runtimeconfig.json
+C:\Users\seanr\code\C#\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.runtimeconfig.dev.json
+c:\Users\seanr\code\C#\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.dll
+c:\Users\seanr\code\C#\fizzbuzz\bin\Debug\netcoreapp3.1\fizzbuzz.pdb
+c:\Users\seanr\code\C#\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.csprojAssemblyReference.cache
+c:\Users\seanr\code\C#\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.AssemblyInfoInputs.cache
+c:\Users\seanr\code\C#\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.AssemblyInfo.cs
+c:\Users\seanr\code\C#\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.dll
+c:\Users\seanr\code\C#\fizzbuzz\obj\Debug\netcoreapp3.1\fizzbuzz.pdb
